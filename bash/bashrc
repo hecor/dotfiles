@@ -105,4 +105,14 @@ export XMODIFIERS=@im=ibus
 export QT_IM_MODULE=ibus
 
 
-export PATH=$PATH:./
+# set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/bin" ] ; then
+    export PATH="$HOME/bin:$PATH"
+fi
+
+
+# set environment for virtualenv
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/sites
+source /usr/local/bin/virtualenvwrapper.sh
+
