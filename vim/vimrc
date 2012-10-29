@@ -3,9 +3,11 @@
 " Author: Gerhard Gappmeier
 "
 
+source ~/.vim/vundle.vim
+
 " Vim package manager: Pathogen
-call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
+"call pathogen#runtime_append_all_bundles()
+"call pathogen#helptags()
 
 " set UTF-8 encoding
 set enc=utf-8
