@@ -1,5 +1,7 @@
-sudo apt-get install python-setuptool
-sudo easy_install vim_bridge
+sudo apt-get install python-pip
+sudo pip install vim_bridge
+
+sudo apt-get install ipython
 sudo apt-get install easystroke
 
 sudo apt-get install vim
