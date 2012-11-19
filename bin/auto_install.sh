@@ -1,5 +1,6 @@
 sudo apt-get install python-pip
 sudo pip install vim_bridge
+sudo pip install virtualenvwrapper
 
 sudo apt-get install ipython
 sudo apt-get install easystroke
