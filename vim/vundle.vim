@@ -28,15 +28,6 @@ Bundle 'https://github.com/mattn/zencoding-vim.git'
 Bundle 'https://github.com/hecor/snipmate.vim.git'
 " ...
 
-"Bundle 'Rykka/riv.vim'
-" ning's patch :
-"
-Bundle 'https://github.com/idning/riv.vim.git' 
-Bundle 'https://github.com/idning/tabular.git' 
-Bundle 'https://github.com/idning/vim-rst-tables.git'
-" ning's own plugins
-Bundle 'https://github.com/idning/ning-vim-plugins.git'
-
 filetype plugin indent on     " required!
 syntax on
 
