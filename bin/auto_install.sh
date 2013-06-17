@@ -1,10 +1,11 @@
-sudo apt-get install python-pip
-sudo pip install vim_bridge
-sudo pip install virtualenvwrapper
+# install latest python from source
+# use latest python to install setuptools and pip (search it)
+# use pip to install ipython
 
-sudo apt-get install ipython
+#sudo pip install vim_bridge
+#sudo pip install virtualenvwrapper
 
-sudo apt-get install ctags
+#sudo apt-get install ctags
 #sudo apt-get install vim
 
 #sudo apt-get install easystroke
