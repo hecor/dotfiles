@@ -12,6 +12,7 @@ sudo apt-get install ctags
 # for install git
 #sudo apt-get install libcurl4-openssl-dev
 #sudo apt-get install libexpat-dev
+#sudo apt-get install gettext
 
 # for openschool
 #sudo apt-get install apache2
@@ -20,5 +21,4 @@ sudo apt-get install ctags
 #sudo apt-get install php5-mysql
 #sudo /etc/init.d/apache2 restart
 
-#sudo apt-get install gettext
 
