@@ -109,10 +109,12 @@ export QT_IM_MODULE=ibus
 if [ -d "$HOME/bin" ] ; then
     export PATH=".:$HOME/bin:$PATH"
 fi
+if [ -d "$HOME/programs/bin" ] ; then
+    export PATH="$HOME/programs/bin:$PATH"
+fi
 
 
 # set environment for virtualenv
 export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/sites
-source /usr/local/bin/virtualenvwrapper.sh
 
