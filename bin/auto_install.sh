@@ -1,12 +1,13 @@
 # install latest python from source
-# (including _sqlite3, readline, bz2 modules), sudo ap-get install libsqlite3-dev; libreadline-dev; libbz2-dev
+# (including _sqlite3, readline, bz2 modules), 
+sudo apt-get install libsqlite3-dev libreadline-dev libbz2-dev
 # use latest python to install setuptools and pip (search it)
 # use pip to install ipython
 
 #sudo pip install vim_bridge
 #sudo pip install virtualenvwrapper
 
-#sudo apt-get install ctags
+sudo apt-get install ctags
 #sudo apt-get install vim
 
 #sudo apt-get install easystroke
