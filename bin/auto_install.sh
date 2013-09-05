@@ -13,8 +13,7 @@ sudo apt-get install ctags
 #sudo apt-get install easystroke
 
 # for install git
-#sudo apt-get install libcurl4-openssl-dev
-#sudo apt-get install libexpat-dev
+#sudo apt-get install libcurl4-openssl-dev libexpat-dev
 #sudo apt-get install gettext
 
 # for openschool
