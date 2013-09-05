@@ -1,6 +1,6 @@
 # install latest python from source
 # (including _sqlite3, readline, bz2 modules), 
-sudo apt-get install libsqlite3-dev libreadline-dev libbz2-dev
+sudo apt-get install libsqlite3-dev libreadline-dev libbz2-dev zlib1g-dev
 # use latest python to install setuptools and pip (search it)
 # use pip to install ipython
 
