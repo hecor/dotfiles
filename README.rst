@@ -12,3 +12,6 @@ To use it, just cd to the *bin* directory and exec
 ./auto_install
 ./auto_config
 
+might need :
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+vim +BundleInstall +qall
