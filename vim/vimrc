@@ -155,3 +155,7 @@ nmap <silent>cc ,c<space>
 " auto insert file header for C file and python file
 autocmd bufnewfile *.h,*.py :call feedkeys("i". "header". "\t". "\<Esc>")
 
+
+" config for Voom plugin
+let g:voom_ft_modes = {'markdown': 'markdown', 'c': 'fmr2', 'cpp': 'fmr2', 'python': 'python', 'rst': 'rest'}
+nmap <silent><F8> :VoomToggle<CR>
