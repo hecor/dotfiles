@@ -13,8 +13,8 @@ Bundle 'gmarik/vundle'
 " original repos on github
 Bundle 'tpope/vim-fugitive'
 Bundle 'Lokaltog/vim-easymotion'
-Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
-Bundle 'tpope/vim-rails.git'
+" Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
+" Bundle 'tpope/vim-rails.git'
 " vim-scripts repos
 Bundle 'L9'
 Bundle 'FuzzyFinder'
@@ -22,9 +22,9 @@ Bundle 'FuzzyFinder'
 Bundle 'https://github.com/vim-scripts/Command-T.git'
 Bundle 'https://github.com/vim-scripts/VOoM.git'
 Bundle 'https://github.com/docunext/closetag.vim.git'
-Bundle 'https://github.com/vim-scripts/taglist.vim.git'
-Bundle 'https://github.com/vim-scripts/RST-Tables.git'
-Bundle 'https://github.com/mattn/zencoding-vim.git'
+" Bundle 'https://github.com/vim-scripts/taglist.vim.git'
+" Bundle 'https://github.com/vim-scripts/RST-Tables.git'
+Bundle 'https://github.com/mattn/emmet-vim.git'
 Bundle 'https://github.com/hecor/snipmate.vim.git'
 " ...
 
