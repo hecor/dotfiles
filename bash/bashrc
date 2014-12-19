@@ -115,10 +115,10 @@ fi
 
 
 # set environment for virtualenv
-export VIRTUALENVWRAPPER_PYTHON=$HOME/programs/bin/python3
-export WORKON_HOME=$HOME/.virtualenvs
-export PROJECT_HOME=$HOME/workspace
-export VIRTUALENVWRAPPER_SCRIPT=$HOME/programs/bin/virtualenvwrapper.sh
-source $HOME/programs/bin/virtualenvwrapper_lazy.sh
+#export VIRTUALENVWRAPPER_PYTHON=$HOME/programs/bin/python3
+#export WORKON_HOME=$HOME/.virtualenvs
+#export PROJECT_HOME=$HOME/workspace
+#export VIRTUALENVWRAPPER_SCRIPT=$HOME/programs/bin/virtualenvwrapper.sh
+#source $HOME/programs/bin/virtualenvwrapper_lazy.sh
 
 
