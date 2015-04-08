@@ -4,4 +4,5 @@
 alias vi='vim'
 alias m='make'
 alias c='clear'
+alias b='cd ..'
 
