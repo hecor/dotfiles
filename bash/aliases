@@ -1,8 +1,0 @@
-# by Zeying Peng, 2011-09-15
-# alias for linux platform
-
-alias vi='vim'
-alias m='make'
-alias c='clear'
-alias b='cd ..'
-

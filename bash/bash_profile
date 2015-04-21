@@ -77,11 +77,6 @@ if [ -x /usr/bin/dircolors ]; then
     alias egrep='egrep --color=auto'
 fi
 
-# some more ls aliases
-alias ll='ls -alFh'
-alias la='ls -A'
-alias l='ls -CF'
-
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
@@ -121,4 +116,18 @@ fi
 #export VIRTUALENVWRAPPER_SCRIPT=$HOME/programs/bin/virtualenvwrapper.sh
 #source $HOME/programs/bin/virtualenvwrapper_lazy.sh
 
+
+# solution for terminal color of MacOS
+export CLICOLOR=1
+export LSCOLORS=GxFxCxDxBxegedabagaced
+
+
+# some more ls aliases
+alias ll='ls -alFh'
+alias la='ls -A'
+alias l='ls -CF'
+alias vi='vim'
+alias m='make'
+alias c='clear'
+alias b='cd ..'
 
