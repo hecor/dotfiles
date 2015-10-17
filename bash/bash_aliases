@@ -1,0 +1,9 @@
+
+alias ll='ls -alFh'
+alias la='ls -A'
+alias l='ls -CF'
+alias vi='vim'
+alias m='make'
+alias c='clear'
+alias b='cd ..'
+
