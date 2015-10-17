@@ -26,6 +26,7 @@ cp ~/dotfiles/bash/screenrc ~/.screenrc
 git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 vim +BundleInstall +qall
 
+sudo apt-get install zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-cp ~/dotfiles/bash/zshrc ~/.zshrc
+#cp ~/dotfiles/bash/zshrc ~/.zshrc
 
