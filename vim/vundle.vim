@@ -28,6 +28,13 @@ Bundle 'https://github.com/mattn/emmet-vim.git'
 Bundle 'https://github.com/hecor/snipmate.vim.git'
 " ...
 
+" python
+Bundle 'https://github.com/davidhalter/jedi-vim.git'
+
+" markdown
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
+
 filetype plugin indent on     " required!
 syntax on
 

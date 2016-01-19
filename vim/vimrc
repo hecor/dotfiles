@@ -159,3 +159,7 @@ autocmd bufnewfile *.h,*.py :call feedkeys("i". "header". "\t". "\<Esc>")
 " config for Voom plugin
 let g:voom_ft_modes = {'markdown': 'markdown', 'c': 'fmr2', 'cpp': 'fmr2', 'python': 'python', 'rst': 'rest'}
 nmap <silent><F8> :VoomToggle<CR>
+
+" plasticboy/vim-markdown
+let g:vim_markdown_folding_disabled = 1
+
