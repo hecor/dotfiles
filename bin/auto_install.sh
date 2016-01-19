@@ -7,7 +7,7 @@ sudo apt-get install libsqlite3-dev libreadline-dev libbz2-dev zlib1g-dev openss
 #sudo pip install vim_bridge
 #sudo pip install virtualenvwrapper
 
-sudo apt-get install ctags
+#sudo apt-get install ctags
 #sudo apt-get install vim
 
 #sudo apt-get install easystroke
@@ -22,4 +22,5 @@ sudo apt-get install ctags
 #sudo apt-get install php5-mysql
 #sudo /etc/init.d/apache2 restart
 
-
+### for centos
+sudo yum install zsh
