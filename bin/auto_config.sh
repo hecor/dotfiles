@@ -20,6 +20,7 @@ fi
 cp -r ~/dotfiles/vim ~/.vim
 cp ~/dotfiles/vim/vimrc ~/.vimrc
 cp ~/dotfiles/bash/bash_profile ~/.bash_profile
+cp ~/dotfiles/bash/bashrc ~/.bashrc
 cp ~/dotfiles/bash/bash_aliases ~/.bash_aliases
 cp ~/dotfiles/bash/screenrc ~/.screenrc
 
