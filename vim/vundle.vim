@@ -30,6 +30,7 @@ Bundle 'https://github.com/hecor/snipmate.vim.git'
 
 " python
 Bundle 'https://github.com/davidhalter/jedi-vim.git'
+Bundle 'https://github.com/klen/python-mode.git'
 
 " markdown
 Plugin 'godlygeek/tabular'
