@@ -163,3 +163,9 @@ nmap <silent><F8> :VoomToggle<CR>
 " plasticboy/vim-markdown
 let g:vim_markdown_folding_disabled = 1
 
+" python-mode
+let g:pymode_lint_on_write = 1
+let g:pymode_options_max_line_length = 160
+let g:pymode_options_colorcolumn = 0
+let g:pymode_folding = 0
+let g:pymode_rope_project_root = "/tmp"
